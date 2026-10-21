@@ -1,0 +1,12 @@
+{
+  "name": "adsimple",
+  "owner": { "name": "AdSimple GmbH", "email": "office@adsimple.at" },
+  "metadata": { "description": "Plugins der AdSimple GmbH" },
+  "plugins": [
+    {
+      "name": "firmenwebseiten",
+      "source": "./firmenwebseiten",
+      "description": "Österreichische Firmen auf firmenwebseiten.at suchen und eigene Firmeneinträge verwalten."
+    }
+  ]
+}

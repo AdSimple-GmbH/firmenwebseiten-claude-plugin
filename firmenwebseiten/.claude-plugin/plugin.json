@@ -1,0 +1,9 @@
+{
+  "name": "firmenwebseiten",
+  "version": "1.0.0",
+  "description": "Österreichische Firmen auf firmenwebseiten.at suchen und als Inhaber den eigenen Firmeneintrag verwalten (Profil, Standorte, Branchen, Bilder, Bewertungen).",
+  "author": { "name": "AdSimple GmbH", "email": "office@adsimple.at", "url": "https://www.firmenwebseiten.at" },
+  "homepage": "https://www.firmenwebseiten.at/ki-assistenten",
+  "license": "UNLICENSED",
+  "keywords": ["firmenverzeichnis", "österreich", "unternehmen", "branchenbuch", "mcp"]
+}
